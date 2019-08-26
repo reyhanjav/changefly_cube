@@ -17,7 +17,7 @@ class KotakKiri extends AnimatedWidget {
         //memanggil asset image
         child: Image.asset(
           'assets/changefly-cube/changefly-cube-left.png',
-          height: 112.0,
+          height: 130.0,
         ),
       ),
     );
