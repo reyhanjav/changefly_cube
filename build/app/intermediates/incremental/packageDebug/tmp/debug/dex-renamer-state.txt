@@ -1,0 +1,4 @@
+#Mon Aug 26 15:49:31 ICT 2019
+base.0=D\:\\changefly_cube\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
